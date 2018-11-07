@@ -19,5 +19,5 @@ the script will take `images/1.png` as input and output to `images/_prediction.p
  To be announced.
 
 ## Full Release Date
-- To be released on 18 Dec. 2018.
+- To be released on 30 Dec. 2018.
 
