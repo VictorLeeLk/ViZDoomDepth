@@ -11,7 +11,7 @@ This repository is for depth prediction for ViZDoom.
 
 `python demo.py`
 
-the script will take `images/1.png` as input and output to `images/_prediction.png`. The result is as below:
+The script will take `images/1.png` as input and output the result to `images/_prediction.png`. The result is as below:
 
 ![](./images/1_prediction_pre.png)
 
